@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name = "Home Page Regression Test">
+<test name = "Regression Test">
+<paramter name ="Browser" value ="chrome"></paramter>
+<classes> 
+<class name ="bin.Test.HomePageTest"></class>
+</classes>
+</test>
+</suite>

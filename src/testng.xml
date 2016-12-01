@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "Home Page Regression Test" parallel = "tests">
+<test name = "Chrome Browser Test">
+<parameter name ="browser" value ="chrome"></parameter>
+<classes>
+<class name ="bin.Test.LandingPagetest"></class>
+</classes>	
+</test>	
+</suite>
